@@ -11,3 +11,4 @@ mariadb:10.11
 kodcloud/kodbox
 redis:alpine
 jellyfin/jellyfin
+hccz95/mattersim:py38
