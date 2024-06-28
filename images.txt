@@ -9,5 +9,5 @@ jc21/nginx-proxy-manager
 syncthing/syncthing
 mariadb:10.11
 kodcloud/kodbox
-redis:alphine
+redis:alpine
 jellyfin/jellyfin
