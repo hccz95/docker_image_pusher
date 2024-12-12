@@ -1,3 +1,5 @@
+gitlab/gitlab-ce
+gitlab/gitlab-runner
 hccz95/drf_node:latest
 hccz95/ubuntu:20.04-py38
 filebrowser/filebrowser
