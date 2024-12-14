@@ -1,3 +1,5 @@
+dyrnq/open-webui:main
+dyrnq/open-webui:main-cuda
 gitlab/gitlab-ce
 gitlab/gitlab-runner
 hccz95/drf_node:latest
