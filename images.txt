@@ -1,4 +1,4 @@
-eclipse/che
+eclipse/che-server
 mintplexlabs/anythingllm:latest
 dyrnq/open-webui:main
 dyrnq/open-webui:main-cuda
