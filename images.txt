@@ -1,3 +1,4 @@
+hccz95/test:latest
 eclipse/che-server
 mintplexlabs/anythingllm:latest
 dyrnq/open-webui:main
