@@ -1,3 +1,4 @@
+technitium/dns-server
 rustdesk/rustdesk-server
 hccz95/mattersim:webvnc
 elestio/docker-desktop-vnc
