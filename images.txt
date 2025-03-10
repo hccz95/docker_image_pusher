@@ -1,3 +1,4 @@
+adguard/adguardhome
 technitium/dns-server
 rustdesk/rustdesk-server
 hccz95/mattersim:webvnc
