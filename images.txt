@@ -1,3 +1,4 @@
+linuxserver/code-server:latest
 adguard/adguardhome
 technitium/dns-server
 rustdesk/rustdesk-server
