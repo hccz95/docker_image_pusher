@@ -1,3 +1,5 @@
+dockurr/windows:latest
+
 jgraph/drawio:latest
 
 mysql:5.7
