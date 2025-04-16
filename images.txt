@@ -1,3 +1,6 @@
+infiniflow/ragflow:v0.17.2
+infiniflow/ragflow:v0.17.2-slim
+
 dockurr/windows:latest
 
 jgraph/drawio:latest
