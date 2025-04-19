@@ -1,3 +1,5 @@
+hccz95/hfo:latest
+
 infiniflow/ragflow:v0.17.2
 infiniflow/ragflow:v0.17.2-slim
 
