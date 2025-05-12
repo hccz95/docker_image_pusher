@@ -1,3 +1,4 @@
+fairembodied/habitat-challenge:testing_2022_habitat_base_docker
 hccz95/mattersim:18.04
 
 excalidraw/excalidraw
