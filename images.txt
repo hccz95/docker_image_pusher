@@ -1,3 +1,5 @@
+freqtradeorg/freqtrade:stable
+
 jellyfin/jellyfin
 kodcloud/kodbox
 linuxserver/heimdall
