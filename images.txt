@@ -1,3 +1,4 @@
+byaidu/pdf2zh
 hccz95/ubuntu:18.04-py38
 
 freqtradeorg/freqtrade:stable
