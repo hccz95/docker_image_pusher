@@ -1,3 +1,4 @@
+hccz95/habitat:latest
 hccz95/test:latest
 hccz95/mattersim:20.04
 byaidu/pdf2zh
