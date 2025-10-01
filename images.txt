@@ -1,3 +1,7 @@
+hccz95/ubuntu:18.04
+hccz95/ubuntu:20.04
+hccz95/ubuntu:22.04
+
 hccz95/vlnce:main
 
 hccz95/mattersim:all
@@ -42,7 +46,7 @@ hccz95/drf_node:latest
 hccz95/mattersim:py38
 hccz95/mattersim:18.04
 hccz95/mattersim:webvnc
-ubuntu:20.04-py38
+hccz95/ubuntu:20.04-py38
 hccz95/zoneminder:latest-ubuntu20.04
 linuxserver/code-server:latest
 mintplexlabs/anythingllm:latest
