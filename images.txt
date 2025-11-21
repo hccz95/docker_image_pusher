@@ -1,3 +1,4 @@
+python:3.8-slim
 node:18.20.8-slim
 
 nvidia/cuda:11.8.0-devel-ubuntu22.04
