@@ -1,3 +1,5 @@
+apache/kafka:latest
+
 python:3.8-slim
 node:18.20.8-slim
 
