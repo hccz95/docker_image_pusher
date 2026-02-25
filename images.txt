@@ -1,3 +1,4 @@
+hccz95/ubuntu:22.04
 hccz95/ubuntu:22.04-offline
 
 apache/kafka:latest
@@ -13,7 +14,6 @@ hccz95/vlnce:main
 
 hccz95/ubuntu:18.04
 hccz95/ubuntu:20.04
-hccz95/ubuntu:22.04
 
 hccz95/habitat:latest
 hccz95/test:latest
