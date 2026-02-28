@@ -1,3 +1,4 @@
+ollama/ollama:latest
 hccz95/ubuntu:22.04
 hccz95/ubuntu:22.04-offline
 
